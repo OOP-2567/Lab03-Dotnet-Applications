@@ -1,0 +1,15 @@
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\bin\Debug\net8.0-windows\FormAdd1.exe
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\bin\Debug\net8.0-windows\FormAdd1.deps.json
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\bin\Debug\net8.0-windows\FormAdd1.runtimeconfig.json
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\bin\Debug\net8.0-windows\FormAdd1.dll
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\bin\Debug\net8.0-windows\FormAdd1.pdb
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\FormAdd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\FormAdd1.AssemblyInfoInputs.cache
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\FormAdd1.AssemblyInfo.cs
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\FormAdd1.csproj.CoreCompileInputs.cache
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\FormAdd1.sourcelink.json
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\FormAdd1.dll
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\refint\FormAdd1.dll
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\FormAdd1.pdb
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\FormAdd1.genruntimeconfig.cache
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\FormAdd1\obj\Debug\net8.0-windows\ref\FormAdd1.dll
