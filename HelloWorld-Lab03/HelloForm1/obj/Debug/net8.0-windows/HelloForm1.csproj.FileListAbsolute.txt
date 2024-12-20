@@ -1,0 +1,15 @@
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\bin\Debug\net8.0-windows\HelloForm1.exe
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\bin\Debug\net8.0-windows\HelloForm1.deps.json
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\bin\Debug\net8.0-windows\HelloForm1.runtimeconfig.json
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\bin\Debug\net8.0-windows\HelloForm1.dll
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\bin\Debug\net8.0-windows\HelloForm1.pdb
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\HelloForm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\HelloForm1.AssemblyInfoInputs.cache
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\HelloForm1.AssemblyInfo.cs
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\HelloForm1.csproj.CoreCompileInputs.cache
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\HelloForm1.sourcelink.json
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\HelloForm1.dll
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\refint\HelloForm1.dll
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\HelloForm1.pdb
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\HelloForm1.genruntimeconfig.cache
+C:\Users\Wipat\CL2567\CL67-01\github-demo\66030281\HelloWorld-Lab03\HelloForm1\obj\Debug\net8.0-windows\ref\HelloForm1.dll
