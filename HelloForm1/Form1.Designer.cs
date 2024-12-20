@@ -1,0 +1,54 @@
+﻿namespace HelloForm1;
+
+partial class Form1
+{
+    /// <summary>
+    ///  Required designer variable.
+    /// </summary>
+    private System.ComponentModel.IContainer components = null;
+
+    /// <summary>
+    ///  Clean up any resources being used.
+    /// </summary>
+    /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+    protected override void Dispose(bool disposing)
+    {
+        if (disposing && (components != null))
+        {
+            components.Dispose();
+        }
+        base.Dispose(disposing);
+    }
+
+    #region Windows Form Designer generated code
+
+    /// <summary>
+    ///  Required method for Designer support - do not modify
+    ///  the contents of this method with the code editor.
+    /// </summary>
+    private void InitializeComponent()
+    {
+        this.components = new System.ComponentModel.Container();
+        this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+        this.ClientSize = new System.Drawing.Size(800, 450);
+        this.Text = "Form1";
+        
+        Button button1 = new Button();
+        button1.Text = "button 1";
+        Controls.Add(button1);
+
+        label_A.AutoSize = true;
+        label_A.Location = new Point(25, 24);
+        label_A.Name = "label_A";
+        label_A.Size = new Size(15, 15);
+        label_A.Text = "A";
+        Controls.Add(label_A)
+
+        ResumeLayout(false);
+        PerformLayout();
+
+
+    }
+
+    #endregion
+}
